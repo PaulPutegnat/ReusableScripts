@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class CharacterController : MonoBehaviour
+public class PlayerController2DPlatformer : MonoBehaviour
 {
     public float movementSpeed = 1f;
     public float jumpHeight = 1f;
